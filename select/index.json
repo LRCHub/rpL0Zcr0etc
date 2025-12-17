@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "飛行艇",
+  "base_artist": "King Gnu",
+  "createdAt": "2025-12-17T08:30:04.548221Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "飛行艇",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_飛行艇_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "飛行艇",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_飛行艇_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "King Gnu - 飛行艇",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/03_King_Gnu_-_飛行艇_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "飛行艇 - Hikoutei",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/04_飛行艇_-_Hikoutei_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "飛行艇",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/05_飛行艇_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "飛行艇 - Hikoutei",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/06_飛行艇_-_Hikoutei_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "King Gnu - 飛行艇",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/07_King_Gnu_-_飛行艇_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "飛行艇  (King Gnu Dome Tour THE GREATEST UNKNOWN at TOKYO DOME)",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/08_飛行艇_(King_Gnu_Dome_Tour_THE_GREATEST_UNKNOWN_at_TOKYO_DOME)_King_Gnu.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hikoutei 「飛行艇」",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/09_Hikoutei_「飛行艇」_King_Gnu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "飛行艇",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_飛行艇_King_Gnu.txt"
+    }
+  ]
+}
